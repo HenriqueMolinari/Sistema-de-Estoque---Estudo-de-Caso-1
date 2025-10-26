@@ -1,0 +1,9 @@
+name: sistemaprodutos
+description: Sistema de gestão de produtos e fornecedores
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  mysql1: ^0.20.0
