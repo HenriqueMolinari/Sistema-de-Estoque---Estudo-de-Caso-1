@@ -62,10 +62,11 @@ final config = DatabaseConfig(
 );
 ```
 
-### 4. 🎯 Execute o Sistema
+### 4. 🎯 No Terminal Execute o Sistema
 ```bash
-dart run
+dart run .\bin\main.dart
 ```
+#OBS: ANTES DE LISTAR TODOS OS PRODUTOS ATUALIZE O ESTOQUE!!!
 
 ## 📊 Funcionalidades do Sistema
 
