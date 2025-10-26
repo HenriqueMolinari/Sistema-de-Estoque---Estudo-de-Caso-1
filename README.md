@@ -66,7 +66,7 @@ final config = DatabaseConfig(
 ```bash
 dart run .\bin\main.dart
 ```
-#OBS: ANTES DE LISTAR TODOS OS PRODUTOS ATUALIZE O ESTOQUE!!!
+# OBS: ANTES DE LISTAR TODOS OS PRODUTOS ATUALIZE O ESTOQUE!!!
 
 ## 📊 Funcionalidades do Sistema
 
